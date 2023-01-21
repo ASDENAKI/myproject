@@ -8,7 +8,8 @@
  * @flags:  Calculates active flags
  * @width: get width
  * @precision: Precision specification
- * @size: Size specifier
+ * @size: Size specifierauthor 
+ * authors: sophoniyas and asdenaki
  * Return: number of chars printed.
  */
 int print_pointer(va_list types, char buffer[],
